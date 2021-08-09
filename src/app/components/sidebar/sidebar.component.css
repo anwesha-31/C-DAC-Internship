@@ -1,0 +1,17 @@
+.heading{
+    color:wheat;
+    font-weight: bolder;
+}
+
+/* .sidebar-wrapper {
+    background-color: violet;
+} */
+/* 
+:host>>> .sidebar:before, :host>>> .sidebar:after, :host>>> .off-canvas-sidebar:before, :host>>> .off-canvas-sidebar:after 
+{
+        background-color: #064BEC !important;
+} */
+
+.nav-item {
+    background-color: rgb(5, 73, 119);
+}

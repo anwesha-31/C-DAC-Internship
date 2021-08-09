@@ -1,0 +1,22 @@
+.card-text {
+    margin-top: 10px;
+}
+
+.card-header {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.card {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.p {
+    padding-left: 6px;
+}
+
+.upload {
+    background-color: rgb(6, 88, 13);
+}

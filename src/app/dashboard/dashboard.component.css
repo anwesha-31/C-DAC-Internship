@@ -1,0 +1,55 @@
+.card-text {
+    margin-top: 10px;
+}
+
+.card-header {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.card {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+/* .p {
+    padding-left: 6px;
+} */
+
+/* .form-signin input[type='email'] {
+    margin-bottom: 10px;
+    border-radius: 20px;
+  }
+  
+  .form-signin input[type='password'] {
+    margin-bottom: 10px;
+    border-radius: 20px;
+  }
+  
+  .form-signin input[type='text'] {
+    margin-bottom: 10px;
+    border-radius: 20px;
+  } */
+  
+  p {
+    font-size: 0.8em;
+  }
+  
+  .btn {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-right: 22px;
+    margin-left: 22px;
+  }
+  
+  .color-theme {
+    padding: 30px;
+    border-radius: 20px;
+  }
+
+.form-control{
+    margin-bottom: 15px;
+    /* padding-top: 20px; */
+    /* padding-bottom: 20px; */
+}

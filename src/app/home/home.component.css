@@ -1,0 +1,132 @@
+/* @import '~bootstrap/dist/css/bootstrap.min.css'; */
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 4px;
+  background-color: rgb(65, 99, 212);
+}
+
+nav {
+    background-color: rgb(65, 99, 212);
+}
+
+/* .form-signin {
+  width: 100%;
+  max-width: 460px;
+  padding: 15px;
+  margin: auto;
+} */
+/* 
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+} */
+
+p {
+  font-size: 0.8em;
+}
+
+
+.form-control {
+  background-color: antiquewhite;
+}
+
+.navbar {
+    background-color: rgb(51, 125, 185);
+    color: brown;
+    font-weight: bolder;
+}
+
+.btn3{
+  background-color: rgb(51, 125, 185);
+}
+
+.card {
+    /* margin-left: 25px; */
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgb(69, 108, 141);
+    color: whitesmoke;
+    /* margin-right: 25px; */
+}
+
+/* .container {
+    background-color: rgb(62, 105, 185);
+} */
+
+.content{
+    background-color:  rgb(8, 28, 54);
+}
+
+footer{
+    color: whitesmoke;
+}
+
+.modal{
+  text-align: center;
+}
+
+.modal-body{
+  /* background-color: rgb(247, 243, 243); */
+  color: black;
+}
+
+.form-control{
+  background-color: white;
+  margin-top: -2px !important;
+}
+
+.modal-title{
+  color: black;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+
+.modal-footer{
+  /* align-content: center; */
+  color: black;
+  vertical-align: middle;
+}
+
+.btn1{
+  background-color: rgb(228, 158, 67);
+  font-weight: bold;
+}
+
+.btn2{
+  background-color:  rgb(157, 82, 228);
+  font-weight: bolder;
+}
+
+.modal-content{
+  width: 450px;
+  align-content: center;
+}
+
+.btn0{
+  background-color: rgb(13, 66, 214);
+  color: black;
+  font-weight: bolder;
+}
+
+.btn:hover{
+  color: white;
+}
+
+.btn9{
+  margin-top: 16px;
+  margin-left: 8px;
+}
